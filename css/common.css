@@ -1,1 +1,10 @@
 /* Inserta tu código común entre todas las páginas acá */
+@media (max-width : 479px) {
+
+
+	.black {
+		
+		visibility:visible;
+		display: block;
+	}
+}

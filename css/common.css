@@ -260,6 +260,18 @@ font-family: 'Open Sans', sans-serif;
 }
 
 /* footer black */
+.black {
+	background-color: black;
+	visibility:hidden;
+	display:none;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.footer-mobile {
+	color:white;
+	font-family: 'Open Sans';
+} 
+
 @media (max-width : 479px) {
 
 
@@ -268,3 +280,5 @@ font-family: 'Open Sans', sans-serif;
 		visibility:visible;
 		display: block;
 	}
+}
+

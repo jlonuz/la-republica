@@ -1,1 +1,11 @@
 /* Inserta tu código común entre todas las páginas acá */
+/*Aquí está el footer cuando se adapta a mobile*/
+@media (max-width : 479px) {
+
+
+	.black {
+		
+		visibility:visible;
+		display: block;
+	}
+}

@@ -1,1 +1,62 @@
-/* Inserta tu código común entre todas las páginas acá */
+
+/*CONTACTOO!! */
+
+.footer-fondo{
+	background-color: #D6D6D6;
+	padding-top: 4%;
+}
+
+.li-footer{
+	display: inline-block;
+	color: #828282;
+	align-items: center;
+	align-content: center;
+}
+
+.lista-footer{
+	font-family: 'Open Sans', sans-serif;
+	font-size:12px;	
+}
+
+.lineaa{
+	margin-bottom: 2%;
+}
+
+.border-footer{
+	margin-top: -3%;
+padding-top: 15px;
+	border-top: 1px solid #828282;
+	padding-bottom:12px;
+	width: 100%;
+
+}
+
+.contenedor-grupo-larepublica{
+font-family: 'Open Sans', sans-serif;
+}
+
+.p-uno{
+	    margin: 1px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.p-dos{
+	  font-size: 12px;
+    margin-top: 10px;
+}
+
+.titulo-footer{
+    font-size: 18px;
+}
+
+.linea-abajo{
+	border-right: 2px black;
+	height: 370px;
+}
+
+.uno-lista{
+
+/*	margin-right: 0.1%;*/
+	    border-right: 1px solid #828282;
+}

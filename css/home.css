@@ -1,4 +1,177 @@
 /* Inserta tu código de la página home/index acá */
+
+
+
+.primera-parte{
+	margin-top: 2%;
+}
+.banner-header{
+	width: 100%;
+}
+
+.texto-guerra h1{
+	font-size: 40px;
+	text-align: center;
+}
+.text-center i{
+	color: #787878;
+	text-shadow: 0px 3px #30B3C9;
+
+}
+.text-center span{
+   font-size: 10px;
+}
+
+.fondo-jne{
+	width: 100%;
+	background-image: url(../image/img_grid_principal.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right 100%;
+}
+.fondo-jne{
+	color: #FDFBFF;
+	text-shadow: 1px 2px #000000;
+    position: relative;
+	z-index: 2;
+	padding-top: 100%;
+	padding-bottom: 2%;
+} 
+.fondo-jne .titulo{
+	font-size: 30px;
+	padding: 2% 3%;
+}
+
+.iconos i{
+	color: #FFFFFF;
+}
+
+.dos-fotos{
+	background-image: url(../image/img_grid_secundario.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom 100%;
+	position: relative;
+    width: 100%;
+    padding-top: 38%; 
+
+}
+
+.dos-fotos .texto-grid{
+	color: #FDFBFF;
+	text-shadow: 1px 2px #000000;
+    font-size: 23px;
+    left: 2%;
+    z-index: 2;
+    padding: 2% 3%;
+    padding-bottom: 10%;
+    
+}
+
+.dos-fotos .grid-dos{
+	color: #FDFBFF;
+	text-shadow: 1px 2px #000000;
+    position: absolute;
+    font-size: 23px;
+    left: 2%;
+    
+}
+
+.dos-fotos .iconos {
+	color: #FFFEF0;
+	position: absolute;
+	bottom: 2%;
+	left: 2%;
+}
+
+
+.segunda-parte{
+	margin-top: 2%;
+	border-top: solid #EF0400;
+	background-color:#EFEFEF;
+	text-align: center;
+	
+}
+
+.texto-columnista{
+	
+	text-align: center;
+	width: 30%;
+	color: #EFEFEF;
+	background-color: #EF0400;
+	position: relative;
+    margin-left: 30%;
+    padding: 1% 2%;
+    margin-bottom: 2%;
+	
+}
+.texto-columnista span{
+	text-align: center
+	
+	top: -4%;
+}
+
+.columnista-mario{
+	text-align: center;
+    width: 100%;
+    float: left;
+    padding: 5px 3px;
+    
+    position: relative;
+} 
+.columnista-mario p{
+	text-align: center;
+	font-size: 9px;
+}   
+.columnista-mario .mega{
+	text-align: center;
+	font-weight: bold;
+}   
+.img-columnista{
+	border:solid #FFFFFF;
+	
+}
+
+.tercera-parte{
+	padding-top: 2%;
+}
+
+.mercado{
+	width: 100%;
+	border:solid 1px #9B9993;
+	text-align: center;
+	margin-bottom: 6%;
+}
+
+
+
+.equipo{
+	position: relative;
+	background-image: url(../image/img_grid_especiales.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 200px;
+	padding-top: 40%;
+}
+
+.equipo span{  
+	font-size: 17px;
+	color: #FDFBFF;
+	text-shadow: 1px 2px #000000;
+    position: relative;
+	z-index: 2;
+
+}
+.mercado .titulo-rojo{
+	color: #FF000D;
+	font-family: Arial;
+	font-size: 16px;
+	padding-top:5%;
+}
+.dscto{
+	width: 100%;
+}
+
 *{
 font-family: 'PT Sans', sans-serif;
 }
